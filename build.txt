@@ -1,0 +1,3 @@
+displayName = Ya like Jazz?
+author = maxabb
+version = 0.1
